@@ -1,12 +1,5 @@
-<p align="center">Git e Github DevStart Be Academy
- <p align="center">
- <a href="#desafio">Desafio</a> •
- <a href="#screenshot">Screenshot</a> •
- <a href="#links">Links</a> •
- <a href="#tecnologias">Tecnologias</a> •
- <a href="#features">Features</a> •
- <a href="#pré-requisitos">Pré Requisitos</a> •
- <a href="#clonar-o-repositório">Clonar repositório</a> •
+ <p align="center">Git e Github DevStart Be Academy
+ <a href="#desafio">Comandos</a> •
  <a href="#autor">Autor</a>
 </p>
 
@@ -14,9 +7,19 @@
 
 <br>
 
-<p align="center">:construction: Projeto README :rocket: Em construção :construction:</p>
+### Comandos
 
 <p>•git stash - salva as alterações sem commit</p>
 <p>•git stash pop - restaura alterações salvas</p>
 <p>•git stash list - list stashes</p>
 <p>•git stash pop stash@{1} - aplica stash especifico</p>
+
+
+### Autor
+
+<img alt="Thiago Galhardo" title="Thiago Galhardo" src="https://avatars.githubusercontent.com/u/70352885?v=4" height="100" width="100" />
+
+Feito com 💜 por Thiago Galhardo 👋
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Thiago_Galhardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thgalhardo/)](https://www.linkedin.com/in/thgalhardo/)
+[![GitHub Badge](https://img.shields.io/badge/-Thiago_Galhardo-gray?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/ThiagoGalhardo/)](https://github.com/thiagogalhardo/)
